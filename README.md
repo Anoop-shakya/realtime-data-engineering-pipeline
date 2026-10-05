@@ -5,6 +5,8 @@ An end-to-end **real-time data engineering pipeline** built to collect, store, s
 The project demonstrates a complete data flow from an external API to **PostgreSQL → Apache Kafka → Spark Structured Streaming → Apache Cassandra**, with **Apache Airflow** used for workflow orchestration.
 
 ![System Architecture](architecture.png)
+![Uploading Real-Time Data Engineering Pipeline Architecture.png…]()
+
 ---
 
 
