@@ -1,5 +1,11 @@
 venv/
+spark_venv/
 __pycache__/
 *.pyc
 .env
 .DS_Store
+logs/
+spark_error.txt
+name
+spark/checkpoint/
+spark/checkpoint_avro/

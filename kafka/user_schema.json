@@ -1,0 +1,3 @@
+{
+  "schema": "{\"type\":\"record\",\"name\":\"User\",\"namespace\":\"realtime.data\",\"fields\":[{\"name\":\"id\",\"type\":\"int\"},{\"name\":\"first_name\",\"type\":\"string\"},{\"name\":\"last_name\",\"type\":\"string\"},{\"name\":\"email\",\"type\":\"string\"},{\"name\":\"gender\",\"type\":\"string\"},{\"name\":\"country\",\"type\":\"string\"},{\"name\":\"city\",\"type\":\"string\"},{\"name\":\"phone\",\"type\":\"string\"}]}"
+}
